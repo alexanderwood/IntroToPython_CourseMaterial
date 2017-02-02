@@ -1,4 +1,6 @@
-This repository contains the lecture slides used in my CST 1101 - Introduction to Problem Solving with Python course at New York City College of Technology. 
+# Intro to Python
+
+This repository contains the lecture slides used in my CST 1101 - Introduction to Problem Solving with Python course at New York City College of Technology. Python version 2 is used. 
 
 In each folder, you will find:
 - tex file for the slides
